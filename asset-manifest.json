@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/todolist/static/js/main.cbfe8e92.js",
-    "index.html": "/todolist/index.html",
-    "main.cbfe8e92.js.map": "/todolist/static/js/main.cbfe8e92.js.map"
+    "main.js": "/todoapp/static/js/main.cbfe8e92.js",
+    "index.html": "/todoapp/index.html",
+    "main.cbfe8e92.js.map": "/todoapp/static/js/main.cbfe8e92.js.map"
   },
   "entrypoints": [
     "static/js/main.cbfe8e92.js"
